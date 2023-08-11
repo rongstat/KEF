@@ -21,4 +21,4 @@ The meta-visualization package requires only a standard computer with enough RAM
 RAM: 16+ GB
 CPU: 4+ cores, 3.3+ GHz/core
 
-The R implementation of the method is tested under R version 4.1.1, and requires the R packages: `rARPACK`,`Rfast`,`rARPACK`,`dimRed`,`cluster`.
+The R implementation of the method is tested under R version 4.1.1, and requires the R packages: `rARPACK`,`Rfast`,`rARPACK`,`dimRed`,`cluster`,`ggplot2`,`lle`,`Seurat`,`TSCAN`,`SCORPIUS`.
