@@ -5,7 +5,7 @@ We propose a kernel-spectral embedding algorithm for learning low-dimensional no
 
 The method is based on the paper:
 
-Ding, X., and Ma, R. (2023+) Learning Low-Dimensional Nonlinear Structures from High-Dimensional Noisy Data: An Integral Operator Approach. **Annals of Statistics** in press
+Ding, X., and Ma, R. (2023+) Learning Low-Dimensional Nonlinear Structures from High-Dimensional Noisy Data: An Integral Operator Approach. **Annals of Statistics** in press https://arxiv.org/pdf/2203.00126.
 
 
 # Content
